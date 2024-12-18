@@ -1,0 +1,7 @@
+{
+  "name": "Major",
+  "description": "Official $major token",
+  "symbol": "MAJOR",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/TheDeadHuman/tc/refs/heads/main/major.png"
+}
